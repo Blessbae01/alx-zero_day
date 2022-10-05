@@ -1,1 +1,1 @@
-My first readme
+The first command I wrote as Alx student
